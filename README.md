@@ -1,4 +1,4 @@
-Bu prohe Java programlama dili kullanılarak yazılmıştır.
+Bu proje Java programlama dili kullanılarak yazılmıştır.
 
 ![1- ana menü](https://github.com/Bayrak-tar/Banking_Automation_Project/assets/107275132/7c659d3d-839b-40ab-8684-897b31a611e6)
 ![2- müdür giriş ekranı](https://github.com/Bayrak-tar/Banking_Automation_Project/assets/107275132/c63f6b8b-8623-4fa5-a954-b96a0d9725e6)
