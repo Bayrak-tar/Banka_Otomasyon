@@ -1,0 +1,3 @@
+Hocam, veritabanı adını SQL server içinden değiştirmiştik. Ama diskteki adı değişmemiş. 
+Normalde SQL Server içerisindeki adı bankayonetimi.
+Bilginiz olsun.
